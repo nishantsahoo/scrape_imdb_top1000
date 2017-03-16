@@ -1,0 +1,1000 @@
+1: The Shawshank Redemption - 9.3
+2: The Godfather - 9.2
+3: The Dark Knight - 9
+4: The Godfather: Part II - 9
+5: Pulp Fiction - 8.9
+6: Schindler's List - 8.9
+7: The Lord of the Rings: The Return of the King - 8.9
+8: 12 Angry Men - 8.9
+9: Il buono, il brutto, il cattivo - 8.9
+10: Dangal - 8.9
+11: Inception - 8.8
+12: Forrest Gump - 8.8
+13: The Lord of the Rings: The Fellowship of the Ring - 8.8
+14: Fight Club - 8.8
+15: Star Wars: Episode V - The Empire Strikes Back - 8.8
+16: Star Wars - 8.7
+17: The Matrix - 8.7
+18: Goodfellas - 8.7
+19: One Flew Over the Cuckoo's Nest - 8.7
+20: Cidade de Deus - 8.7
+21: The Lord of the Rings: The Two Towers - 8.7
+22: Shichinin no samurai - 8.7
+23: Logan - 8.6
+24: Interstellar - 8.6
+25: Léon - 8.6
+26: Saving Private Ryan - 8.6
+27: The Usual Suspects - 8.6
+28: The Silence of the Lambs - 8.6
+29: American History X - 8.6
+30: Se7en - 8.6
+31: The Intouchables - 8.6
+32: Sen to Chihiro no kamikakushi - 8.6
+33: La vita è bella - 8.6
+34: Casablanca - 8.6
+35: Once Upon a Time in the West - 8.6
+36: It's a Wonderful Life - 8.6
+37: Babam ve Oglum - 8.6
+38: City Lights - 8.6
+39: Alien - 8.5
+40: The Dark Knight Rises - 8.5
+41: Whiplash - 8.5
+42: The Prestige - 8.5
+43: The Departed - 8.5
+44: Memento - 8.5
+45: Psycho - 8.5
+46: Back to the Future - 8.5
+47: The Lion King - 8.5
+48: Apocalypse Now - 8.5
+49: The Green Mile - 8.5
+50: Gladiator - 8.5
+51: Raiders of the Lost Ark - 8.5
+52: Terminator 2: Judgment Day - 8.5
+53: The Pianist - 8.5
+54: The Lives of Others - 8.5
+55: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb - 8.5
+56: Rear Window - 8.5
+57: Hotaru no haka - 8.5
+58: Sunset Blvd. - 8.5
+59: Nuovo Cinema Paradiso - 8.5
+60: Modern Times - 8.5
+61: The Great Dictator - 8.5
+62: Paths of Glory - 8.5
+63: Taare Zameen Par - 8.5
+64: Eskiya - 8.5
+65: La La Land - 8.4
+66: Aliens - 8.4
+67: American Beauty - 8.4
+68: Requiem for a Dream - 8.4
+69: The Shining - 8.4
+70: Braveheart - 8.4
+71: Django Unchained - 8.4
+72: Star Wars: Episode VI - Return of the Jedi - 8.4
+73: Reservoir Dogs - 8.4
+74: Oldeuboi - 8.4
+75: Amélie - 8.4
+76: Once Upon a Time in America - 8.4
+77: 3 Idiots - 8.4
+78: Mononoke-hime - 8.4
+79: Vertigo - 8.4
+80: WALL·E - 8.4
+81: Jodaeiye Nader az Simin - 8.4
+82: Citizen Kane - 8.4
+83: Das Boot - 8.4
+84: North by Northwest - 8.4
+85: M - 8.4
+86: Bacheha-Ye aseman - 8.4
+87: Double Indemnity - 8.4
+88: Witness for the Prosecution - 8.4
+89: Andrei Rublev - 8.4
+90: A Wednesday - 8.4
+91: Drishyam - 8.4
+92: Sholay - 8.4
+93: Andaz Apna Apna - 8.4
+94: Inglourious Basterds - 8.3
+95: Snatch - 8.3
+96: Good Will Hunting - 8.3
+97: A Clockwork Orange - 8.3
+98: Scarface - 8.3
+99: Batman Begins - 8.3
+100: All About Eve - 8.3
+101: Taxi Driver - 8.3
+102: Jagten - 8.3
+103: Full Metal Jacket - 8.3
+104: Eternal Sunshine of the Spotless Mind - 8.3
+105: 2001: A Space Odyssey - 8.3
+106: Indiana Jones and the Last Crusade - 8.3
+107: Amadeus - 8.3
+108: Unforgiven - 8.3
+109: Toy Story - 8.3
+110: L.A. Confidential - 8.3
+111: Der Untergang - 8.3
+112: Up - 8.3
+113: Lawrence of Arabia - 8.3
+114: To Kill a Mockingbird - 8.3
+115: Toy Story 3 - 8.3
+116: Monty Python and the Holy Grail - 8.3
+117: Singin' in the Rain - 8.3
+118: Some Like It Hot - 8.3
+119: Metropolis - 8.3
+120: The Sting - 8.3
+121: Idi i smotri - 8.3
+122: The Apartment - 8.3
+123: The Third Man - 8.3
+124: Per qualche dollaro in più - 8.3
+125: Gangs of Wasseypur - 8.3
+126: The Message - 8.3
+127: Rashômon - 8.3
+128: The Treasure of the Sierra Madre - 8.3
+129: Airlift - 8.3
+130: Rang De Basanti - 8.3
+131: Bahubali: The Beginning - 8.3
+132: Ladri di biciclette - 8.3
+133: Yôjinbô - 8.3
+134: Judgment at Nuremberg - 8.3
+135: The Kid - 8.3
+136: Tôkyô monogatari - 8.3
+137: Sunrise: A Song of Two Humans - 8.3
+138: Ikiru - 8.3
+139: Hera Pheri - 8.3
+140: Swades: We, the People - 8.3
+141: La passion de Jeanne d'Arc - 8.3
+142: Black - 8.3
+143: Munna Bhai M.B.B.S. - 8.3
+144: Queen - 8.3
+145: Chak De! India - 8.3
+146: Bhaag Milkha Bhaag - 8.3
+147: Hacksaw Ridge - 8.2
+148: Trainspotting - 8.2
+149: Room - 8.2
+150: The Wolf of Wall Street - 8.2
+151: The Big Lebowski - 8.2
+152: Blade Runner - 8.2
+153: Inside Out - 8.2
+154: Pan's Labyrinth - 8.2
+155: Warrior - 8.2
+156: Heat - 8.2
+157: A Beautiful Mind - 8.2
+158: V for Vendetta - 8.2
+159: The Thing - 8.2
+160: Gone with the Wind - 8.2
+161: The Deer Hunter - 8.2
+162: Die Hard - 8.2
+163: Lock, Stock and Two Smoking Barrels - 8.2
+164: Casino - 8.2
+165: Gran Torino - 8.2
+166: How to Train Your Dragon - 8.2
+167: Hauru no ugoku shiro - 8.2
+168: Incendies - 8.2
+169: Chinatown - 8.2
+170: Raging Bull - 8.2
+171: The Elephant Man - 8.2
+172: El secreto de sus ojos - 8.2
+173: The Great Escape - 8.2
+174: Tonari no Totoro - 8.2
+175: Cool Hand Luke - 8.2
+176: On the Waterfront - 8.2
+177: Song of the Sea - 8.2
+178: Ran - 8.2
+179: Rebecca - 8.2
+180: The Bridge on the River Kwai - 8.2
+181: Det sjunde inseglet - 8.2
+182: Mary and Max - 8.2
+183: Dial M for Murder - 8.2
+184: PK - 8.2
+185: Lagaan: Once Upon a Time in India - 8.2
+186: It Happened One Night - 8.2
+187: Kis Uykusu - 8.2
+188: Smultronstället - 8.2
+189: Mr. Smith Goes to Washington - 8.2
+190: Kahaani - 8.2
+191: The Gold Rush - 8.2
+192: Le salaire de la peur - 8.2
+193: The General - 8.2
+194: Dil Chahta Hai - 8.2
+195: Barfi! - 8.2
+196: Haider - 8.2
+197: Nefes: Vatan Sagolsun - 8.2
+198: Le notti di Cabiria - 8.2
+199: Dilwale Dulhania Le Jayenge - 8.2
+200: Udaan - 8.2
+201: OMG: Oh My God! - 8.2
+202: John Wick: Chapter 2 - 8.1
+203: Lion - 8.1
+204: What Ever Happened to Baby Jane? - 8.1
+205: Deadpool - 8.1
+206: Rogue One - 8.1
+207: Zootopia - 8.1
+208: Guardians of the Galaxy - 8.1
+209: Gone Girl - 8.1
+210: Mad Max: Fury Road - 8.1
+211: Star Wars: Episode VII - The Force Awakens - 8.1
+212: The Help - 8.1
+213: Harry Potter and the Deathly Hallows: Part 2 - 8.1
+214: Jurassic Park - 8.1
+215: Prisoners - 8.1
+216: Spotlight - 8.1
+217: No Country for Old Men - 8.1
+218: The Imitation Game - 8.1
+219: Donnie Darko - 8.1
+220: The Princess Bride - 8.1
+221: The Avengers - 8.1
+222: Shutter Island - 8.1
+223: The Grand Budapest Hotel - 8.1
+224: Ah-ga-ssi - 8.1
+225: 12 Years a Slave - 8.1
+226: Into the Wild - 8.1
+227: The Sixth Sense - 8.1
+228: Fargo - 8.1
+229: Kill Bill: Vol. 1 - 8.1
+230: There Will Be Blood - 8.1
+231: Who's Afraid of Virginia Woolf? - 8.1
+232: Stand by Me - 8.1
+233: Rush - 8.1
+234: Finding Nemo - 8.1
+235: Platoon - 8.1
+236: The Truman Show - 8.1
+237: Rocky - 8.1
+238: The Wizard of Oz - 8.1
+239: Million Dollar Baby - 8.1
+240: Monsters, Inc. - 8.1
+241: Relatos salvajes - 8.1
+242: Hachi: A Dog's Tale - 8.1
+243: Ben-Hur - 8.1
+244: The Bourne Ultimatum - 8.1
+245: Before Sunrise - 8.1
+246: Annie Hall - 8.1
+247: Akira - 8.1
+248: Dogville - 8.1
+249: Gandhi - 8.1
+250: The Maltese Falcon - 8.1
+251: Barry Lyndon - 8.1
+252: Butch Cassidy and the Sundance Kid - 8.1
+253: Hotel Rwanda - 8.1
+254: Stalker - 8.1
+255: Network - 8.1
+256: Faa yeung nin wa - 8.1
+257: Yip Man - 8.1
+258: In the Name of the Father - 8.1
+259: Mommy - 8.1
+260: Amores perros - 8.1
+261: Roman Holiday - 8.1
+262: Solaris - 8.1
+263: La haine - 8.1
+264: Life of Brian - 8.1
+265: Salinui chueok - 8.1
+266: Kaze no tani no Naushika - 8.1
+267: Darbareye Elly - 8.1
+268: La dolce vita - 8.1
+269: 8½ - 8.1
+270: Mou gaan dou - 8.1
+271: Tenkû no shiro Rapyuta - 8.1
+272: The Last Picture Show - 8.1
+273: Laura - 8.1
+274: Paris, Texas - 8.1
+275: The Grapes of Wrath - 8.1
+276: Persona - 8.1
+277: Mar adentro - 8.1
+278: Bajrangi Bhaijaan - 8.1
+279: All Quiet on the Western Front - 8.1
+280: Cat on a Hot Tin Roof - 8.1
+281: Tropa de Elite - 8.1
+282: Chung Hing sam lam - 8.1
+283: Anatomy of a Murder - 8.1
+284: Der Himmel über Berlin - 8.1
+285: Touch of Evil - 8.1
+286: The Man Who Shot Liberty Valance - 8.1
+287: Persepolis - 8.1
+288: Les quatre cents coups - 8.1
+289: The Best Years of Our Lives - 8.1
+290: La leggenda del pianista sull'oceano - 8.1
+291: Fanny och Alexander - 8.1
+292: Das Cabinet des Dr. Caligari - 8.1
+293: Festen - 8.1
+294: La battaglia di Algeri - 8.1
+295: Trois couleurs: Rouge - 8.1
+296: Zindagi Na Milegi Dobara - 8.1
+297: Sleuth - 8.1
+298: Tropa de Elite 2: O Inimigo Agora é Outro - 8.1
+299: Baby - 8.1
+300: Les diaboliques - 8.1
+301: Crna macka, beli macor - 8.1
+302: Le samouraï - 8.1
+303: Yeopgijeogin geunyeo - 8.1
+304: Bin-jip - 8.1
+305: Brief Encounter - 8.1
+306: Kumonosu-jô - 8.1
+307: Underground - 8.1
+308: La Strada - 8.1
+309: Kakushi-toride no san-akunin - 8.1
+310: Au revoir les enfants - 8.1
+311: La Grande Illusion - 8.1
+312: Bom yeoreum gaeul gyeoul geurigo bom - 8.1
+313: A Night at the Opera - 8.1
+314: Kind Hearts and Coronets - 8.1
+315: Okuribito - 8.1
+316: Taegukgi hwinalrimyeo - 8.1
+317: Lage Raho Munna Bhai - 8.1
+318: Manchester by the Sea - 8
+319: Arrival - 8
+320: X-Men: Days of Future Past - 8
+321: Beauty and the Beast - 8
+322: Pirates of the Caribbean: The Curse of the Black Pearl - 8
+323: The Revenant - 8
+324: Kôkaku Kidôtai - 8
+325: The Martian - 8
+326: King Kong - 8
+327: The Perks of Being a Wallflower - 8
+328: Jaws - 8
+329: Sing Street - 8
+330: Catch Me If You Can - 8
+331: Her - 8
+332: Black Swan - 8
+333: Slumdog Millionaire - 8
+334: The Terminator - 8
+335: The Incredibles - 8
+336: Mulholland Dr. - 8
+337: The Iron Giant - 8
+338: Planet of the Apes - 8
+339: Dallas Buyers Club - 8
+340: Sin City - 8
+341: Star Trek - 8
+342: Casino Royale - 8
+343: Mystic River - 8
+344: This Is Spinal Tap - 8
+345: Serenity - 8
+346: The Sound of Music - 8
+347: Aladdin - 8
+348: Twelve Monkeys - 8
+349: Dances with Wolves - 8
+350: True Romance - 8
+351: The Graduate - 8
+352: Dead Poets Society - 8
+353: The Exorcist - 8
+354: Kill Bill: Vol. 2 - 8
+355: Big Fish - 8
+356: Ratatouille - 8
+357: The Pursuit of Happyness - 8
+358: The King's Speech - 8
+359: Rosemary's Baby - 8
+360: District 9 - 8
+361: Nosferatu - 8
+362: Papillon - 8
+363: Groundhog Day - 8
+364: Magnolia - 8
+365: Young Frankenstein - 8
+366: Shaun of the Dead - 8
+367: Rain Man - 8
+368: Rope - 8
+369: Scent of a Woman - 8
+370: Blood Diamond - 8
+371: In Bruges - 8
+372: The Raid 2: Berandal - 8
+373: Short Term 12 - 8
+374: A Streetcar Named Desire - 8
+375: The Man from Earth - 8
+376: The Nightmare Before Christmas - 8
+377: Brazil - 8
+378: All the President's Men - 8
+379: Dog Day Afternoon - 8
+380: Before Sunset - 8
+381: Fiddler on the Roof - 8
+382: Sling Blade - 8
+383: Cinderella Man - 8
+384: JFK - 8
+385: Doctor Zhivago - 8
+386: Låt den rätte komma in - 8
+387: Per un pugno di dollari - 8
+388: Dancer in the Dark - 8
+389: Patton - 8
+390: Dawn of the Dead - 8
+391: The Searchers - 8
+392: A Christmas Story - 8
+393: Pink Floyd: The Wall - 8
+394: Days of Heaven - 8
+395: In the Heat of the Night - 8
+396: The Manchurian Candidate - 8
+397: Manhattan - 8
+398: Being There - 8
+399: The Hustler - 8
+400: High Noon - 8
+401: Harold and Maude - 8
+402: Strangers on a Train - 8
+403: My Name Is Khan - 8
+404: Rio Bravo - 8
+405: East of Eden - 8
+406: Trois couleurs: Bleu - 8
+407: Harvey - 8
+408: The Wild Bunch - 8
+409: Hable con ella - 8
+410: Notorious - 8
+411: Le scaphandre et le papillon - 8
+412: Mimi wo sumaseba - 8
+413: The Straight Story - 8
+414: The Night of the Hunter - 8
+415: The Killing - 8
+416: Kal Ho Naa Ho - 8
+417: The Big Sleep - 8
+418: The Adventures of Robin Hood - 8
+419: Hannah and Her Sisters - 8
+420: Charade - 8
+421: The Philadelphia Story - 8
+422: Aguirre, der Zorn Gottes - 8
+423: G.O.R.A. - 8
+424: Arsenic and Old Lace - 8
+425: Shadow of a Doubt - 8
+426: Secrets & Lies - 8
+427: His Girl Friday - 8
+428: Amarcord - 8
+429: Bringing Up Baby - 8
+430: C.R.A.Z.Y. - 8
+431: Crimes and Misdemeanors - 8
+432: Bronenosets Potyomkin - 8
+433: The Lost Weekend - 8
+434: Jab We Met - 8
+435: Stalag 17 - 8
+436: Gegen die Wand - 8
+437: Le charme discret de la bourgeoisie - 8
+438: Vozvrashchenie - 8
+439: Duck Soup - 8
+440: No Man's Land - 8
+441: Central do Brasil - 8
+442: Special Chabbis - 8
+443: Hidden Figures - 7.9
+444: Captain Fantastic - 7.9
+445: Captain America: Civil War - 7.9
+446: The Notebook - 7.9
+447: Kubo and the Two Strings - 7.9
+448: Edge of Tomorrow - 7.9
+449: The Breakfast Club - 7.9
+450: Iron Man - 7.9
+451: Boogie Nights - 7.9
+452: Hunt for the Wilderpeople - 7.9
+453: Nightcrawler - 7.9
+454: Walk the Line - 7.9
+455: Straight Outta Compton - 7.9
+456: The Hobbit: An Unexpected Journey - 7.9
+457: Children of Men - 7.9
+458: E.T. the Extra-Terrestrial - 7.9
+459: Edward Scissorhands - 7.9
+460: Big Hero 6 - 7.9
+461: Boyhood - 7.9
+462: Hot Fuzz - 7.9
+463: The Hobbit: The Desolation of Smaug - 7.9
+464: Life of Pi - 7.9
+465: The Fighter - 7.9
+466: Bonnie and Clyde - 7.9
+467: Almost Famous - 7.9
+468: Mr. Nobody - 7.9
+469: The Boondock Saints - 7.9
+470: Moon - 7.9
+471: The Ten Commandments - 7.9
+472: Shrek - 7.9
+473: The Bourne Identity - 7.9
+474: The Blues Brothers - 7.9
+475: The Untouchables - 7.9
+476: My Fair Lady - 7.9
+477: The Fall - 7.9
+478: Toy Story 2 - 7.9
+479: How to Train Your Dragon 2 - 7.9
+480: The Wrestler - 7.9
+481: Spartacus - 7.9
+482: Halloween - 7.9
+483: Glory - 7.9
+484: The Artist - 7.9
+485: Do the Right Thing - 7.9
+486: Before Midnight - 7.9
+487: Wo hu cang long - 7.9
+488: Once - 7.9
+489: Midnight Cowboy - 7.9
+490: Ying xiong - 7.9
+491: Carlito's Way - 7.9
+492: Badlands - 7.9
+493: The Insider - 7.9
+494: La montaña sagrada - 7.9
+495: The Right Stuff - 7.9
+496: Letters from Iwo Jima - 7.9
+497: Ed Wood - 7.9
+498: Night of the Living Dead - 7.9
+499: Le passé - 7.9
+500: Amour - 7.9
+501: My Left Foot: The Story of Christy Brown - 7.9
+502: The Conversation - 7.9
+503: Breaking the Waves - 7.9
+504: The Quiet Man - 7.9
+505: The Outlaw Josey Wales - 7.9
+506: Majo no takkyûbin - 7.9
+507: À bout de souffle - 7.9
+508: Frankenstein - 7.9
+509: Pafekuto buru - 7.9
+510: The African Queen - 7.9
+511: The Remains of the Day - 7.9
+512: The Killing Fields - 7.9
+513: Chugyeogja - 7.9
+514: Freaks - 7.9
+515: Once Were Warriors - 7.9
+516: Un prophète - 7.9
+517: Stagecoach - 7.9
+518: Jûbê ninpûchô - 7.9
+519: The Man Who Would Be King - 7.9
+520: Todo sobre mi madre - 7.9
+521: Les choristes - 7.9
+522: Key Largo - 7.9
+523: The World's Fastest Indian - 7.9
+524: Bride of Frankenstein - 7.9
+525: 4 luni, 3 saptamâni si 2 zile - 7.9
+526: Lilja 4-ever - 7.9
+527: Batman: Mask of the Phantasm - 7.9
+528: Lat sau san taam - 7.9
+529: La double vie de Veronique - 7.9
+530: Cowboy Bebop: Tengoku no tobira - 7.9
+531: Nueve reinas - 7.9
+532: Dip huet seung hung - 7.9
+533: The Lady Vanishes - 7.9
+534: Jules et Jim - 7.9
+535: Miracle on 34th Street - 7.9
+536: Veer-Zaara - 7.9
+537: Auf der anderen Seite - 7.9
+538: X: First Class - 7.8
+539: Blazing Saddles - 7.8
+540: The Hateful Eight - 7.8
+541: Avatar - 7.8
+542: The Big Short - 7.8
+543: Drive - 7.8
+544: Harry Potter and the Prisoner of Azkaban - 7.8
+545: Birdman or (The Unexpected Virtue of Ignorance) - 7.8
+546: Ghostbusters - 7.8
+547: Predator - 7.8
+548: Mary Poppins - 7.8
+549: Captain America: The Winter Soldier - 7.8
+550: The Lego Movie - 7.8
+551: Tangled - 7.8
+552: Crash - 7.8
+553: The Girl with the Dragon Tattoo - 7.8
+554: Pride & Prejudice - 7.8
+555: The Hangover - 7.8
+556: The Goonies - 7.8
+557: Tombstone - 7.8
+558: Taken - 7.8
+559: Apocalypto - 7.8
+560: Ocean's Eleven - 7.8
+561: About Time - 7.8
+562: Silver Linings Playbook - 7.8
+563: American Gangster - 7.8
+564: Atonement - 7.8
+565: The Fault in Our Stars - 7.8
+566: La vie d'Adèle - 7.8
+567: Ferris Bueller's Day Off - 7.8
+568: The Curious Case of Benjamin Button - 7.8
+569: Moonrise Kingdom - 7.8
+570: The Magnificent Seven - 7.8
+571: Skyfall - 7.8
+572: Airplane! - 7.8
+573: Gravity - 7.8
+574: Captain Phillips - 7.8
+575: Star Trek Into Darkness - 7.8
+576: Remember the Titans - 7.8
+577: Office Space - 7.8
+578: The Sandlot - 7.8
+579: Boyz n the Hood - 7.8
+580: Lost in Translation - 7.8
+581: O Brother, Where Art Thou? - 7.8
+582: Me and Earl and the Dying Girl - 7.8
+583: The Last of the Mohicans - 7.8
+584: The Boy in the Striped Pyjamas - 7.8
+585: Little Miss Sunshine - 7.8
+586: Ordinary People - 7.8
+587: Gattaca - 7.8
+588: Willy Wonka & the Chocolate Factory - 7.8
+589: Goldfinger - 7.8
+590: Back to the Future Part II - 7.8
+591: Rebel Without a Cause - 7.8
+592: Blue Velvet - 7.8
+593: What's Eating Gilbert Grape - 7.8
+594: Wreck-It Ralph - 7.8
+595: La migliore offerta - 7.8
+596: Misery - 7.8
+597: The Game - 7.8
+598: Fantastic Mr. Fox - 7.8
+599: Glengarry Glen Ross - 7.8
+600: Män som hatar kvinnor - 7.8
+601: Empire of the Sun - 7.8
+602: Being John Malkovich - 7.8
+603: The Day of the Jackal - 7.8
+604: A Bronx Tale - 7.8
+605: The Fugitive - 7.8
+606: The Bourne Supremacy - 7.8
+607: Lucky Number Slevin - 7.8
+608: The Color Purple - 7.8
+609: Kramer vs. Kramer - 7.8
+610: The Little Prince - 7.8
+611: Changeling - 7.8
+612: Beasts of No Nation - 7.8
+613: Ang-ma-reul bo-at-da - 7.8
+614: Donnie Brasco - 7.8
+615: Kung fu - 7.8
+616: October Sky - 7.8
+617: The Dirty Dozen - 7.8
+618: Dirty Harry - 7.8
+619: Clerks - 7.8
+620: Zwartboek - 7.8
+621: Pride - 7.8
+622: Der Name der Rose - 7.8
+623: Awakenings - 7.8
+624: Evil Dead II - 7.8
+625: Serpico - 7.8
+626: The Last Emperor - 7.8
+627: The French Connection - 7.8
+628: The Longest Day - 7.8
+629: Hamlet - 7.8
+630: Cabaret - 7.8
+631: Mississippi Burning - 7.8
+632: Lola rennt - 7.8
+633: Kaze tachinu - 7.8
+634: The King of Comedy - 7.8
+635: Miller's Crossing - 7.8
+636: Guess Who's Coming to Dinner - 7.8
+637: Waking Life - 7.8
+638: Ajeossi - 7.8
+639: Withnail & I - 7.8
+640: Byôsoku 5 senchimêtoru - 7.8
+641: Happiness - 7.8
+642: The Verdict - 7.8
+643: Belle de jour - 7.8
+644: Diarios de motocicleta - 7.8
+645: Zulu - 7.8
+646: The Day the Earth Stood Still - 7.8
+647: Fantasia - 7.8
+648: South Park: Bigger, Longer & Uncut - 7.8
+649: Das weiße Band - Eine deutsche Kindergeschichte - 7.8
+650: Abre los ojos - 7.8
+651: Dabba - 7.8
+652: The Broken Circle Breakdown - 7.8
+653: Hedwig and the Angry Inch - 7.8
+654: Das Experiment - 7.8
+655: Repulsion - 7.8
+656: Toki o kakeru shôjo - 7.8
+657: In America - 7.8
+658: Night on Earth - 7.8
+659: Kurenai no buta - 7.8
+660: Madeo - 7.8
+661: Invasion of the Body Snatchers - 7.8
+662: Down by Law - 7.8
+663: Le locataire - 7.8
+664: Efter brylluppet - 7.8
+665: Adams æbler - 7.8
+666: Bir Zamanlar Anadolu'da - 7.8
+667: Spoorloos - 7.8
+668: The 39 Steps - 7.8
+669: Ondskan - 7.8
+670: Kuch Kuch Hota Hai - 7.8
+671: Zelig - 7.8
+672: Love and Death - 7.8
+673: Kokuhaku - 7.8
+674: Les triplettes de Belleville - 7.8
+675: Vicky Donor - 7.8
+676: Moana - 7.7
+677: Doctor Strange - 7.7
+678: Hell or High Water - 7.7
+679: Titanic - 7.7
+680: Kingsman: The Secret Service - 7.7
+681: Midnight in Paris - 7.7
+682: Ex Machina - 7.7
+683: Love Actually - 7.7
+684: Harry Potter and the Goblet of Fire - 7.7
+685: Le cinquième élément - 7.7
+686: The Theory of Everything - 7.7
+687: Creed - 7.7
+688: Kick-Ass - 7.7
+689: 300 - 7.7
+690: Harry Potter and the Deathly Hallows: Part 1 - 7.7
+691: Brokeback Mountain - 7.7
+692: Zodiac - 7.7
+693: Argo - 7.7
+694: Gone Baby Gone - 7.7
+695: Where Eagles Dare - 7.7
+696: The Blind Side - 7.7
+697: Training Day - 7.7
+698: (500) Days of Summer - 7.7
+699: The Social Network - 7.7
+700: Shane - 7.7
+701: Zombieland - 7.7
+702: Road to Perdition - 7.7
+703: Dazed and Confused - 7.7
+704: The Machinist - 7.7
+705: Black Hawk Down - 7.7
+706: 3:10 to Yuma - 7.7
+707: Minority Report - 7.7
+708: Cast Away - 7.7
+709: Stardust - 7.7
+710: Man on Fire - 7.7
+711: The Last Samurai - 7.7
+712: Deliverance - 7.7
+713: Saw - 7.7
+714: First Blood - 7.7
+715: End of Watch - 7.7
+716: Fear and Loathing in Las Vegas - 7.7
+717: 50/50 - 7.7
+718: Primal Fear - 7.7
+719: Eastern Promises - 7.7
+720: Despicable Me - 7.7
+721: The Butterfly Effect - 7.7
+722: Close Encounters of the Third Kind - 7.7
+723: Breakfast at Tiffany's - 7.7
+724: The Warriors - 7.7
+725: Y tu mamá también - 7.7
+726: The Count of Monte Cristo - 7.7
+727: As Good as It Gets - 7.7
+728: Coraline - 7.7
+729: Match Point - 7.7
+730: Seven Pounds - 7.7
+731: This Is England - 7.7
+732: Philadelphia - 7.7
+733: Sense and Sensibility - 7.7
+734: Who Framed Roger Rabbit - 7.7
+735: Fried Green Tomatoes - 7.7
+736: Dark City - 7.7
+737: Adaptation. - 7.7
+738: Star Trek: The Wrath of Khan - 7.7
+739: Finding Neverland - 7.7
+740: Enter the Dragon - 7.7
+741: Sophie's Choice - 7.7
+742: The Last King of Scotland - 7.7
+743: 21 Grams - 7.7
+744: Batoru rowaiaru - 7.7
+745: The Birds - 7.7
+746: Rushmore - 7.7
+747: Victoria - 7.7
+748: La grande bellezza - 7.7
+749: Flipped - 7.7
+750: Sabrina - 7.7
+751: Billy Elliot - 7.7
+752: Gake no ue no Ponyo - 7.7
+753: Malcolm X - 7.7
+754: Dangerous Liaisons - 7.7
+755: Midnight Express - 7.7
+756: Nebraska - 7.7
+757: Giant - 7.7
+758: A Little Princess - 7.7
+759: Barton Fink - 7.7
+760: Papurika - 7.7
+761: Dead Man - 7.7
+762: Ray - 7.7
+763: After Hours - 7.7
+764: 25th Hour - 7.7
+765: Blowup - 7.7
+766: Forbidden Planet - 7.7
+767: Un long dimanche de fiançailles - 7.7
+768: Watership Down - 7.7
+769: From Here to Eternity - 7.7
+770: Kelly's Heroes - 7.7
+771: La cité des enfants perdus - 7.7
+772: Shine - 7.7
+773: Detachment - 7.7
+774: Blood Simple. - 7.7
+775: Control - 7.7
+776: The Producers - 7.7
+777: Jeux d'enfants - 7.7
+778: Good Bye Lenin! - 7.7
+779: Dead Man's Shoes - 7.7
+780: Mysterious Skin - 7.7
+781: Frost/Nixon - 7.7
+782: Delicatessen - 7.7
+783: Short Cuts - 7.7
+784: Boksuneun naui geot - 7.7
+785: Le violon rouge - 7.7
+786: Dalkomhan insaeng - 7.7
+787: The Visitor - 7.7
+788: A Hard Day's Night - 7.7
+789: Huo yuanjia - 7.7
+790: The Odd Couple - 7.7
+791: Celda 211 - 7.7
+792: The Station Agent - 7.7
+793: Boy A - 7.7
+794: Hævnen - 7.7
+795: The Muppet Movie - 7.7
+796: The Sweet Hereafter - 7.7
+797: Trois couleurs: Blanc - 7.7
+798: Il postino - 7.7
+799: The Purple Rose of Cairo - 7.7
+800: Le dîner de cons - 7.7
+801: The Muppet Christmas Carol - 7.7
+802: Les invasions barbares - 7.7
+803: Moonlight - 7.6
+804: Nocturnal Animals - 7.6
+805: The LEGO Batman Movie - 7.6
+806: American Psycho - 7.6
+807: Superbad - 7.6
+808: Sicario - 7.6
+809: Watchmen - 7.6
+810: Les Misérables - 7.6
+811: Fury - 7.6
+812: Lethal Weapon - 7.6
+813: Star Wars: Episode III - Revenge of the Sith - 7.6
+814: Bridge of Spies - 7.6
+815: Lo imposible - 7.6
+816: What We Do in the Shadows - 7.6
+817: Blow - 7.6
+818: The Town - 7.6
+819: Batman - 7.6
+820: Sleepers - 7.6
+821: Moulin Rouge! - 7.6
+822: The Little Mermaid - 7.6
+823: Lone Survivor - 7.6
+824: The Hurt Locker - 7.6
+825: Dawn of the Planet of the Apes - 7.6
+826: Apollo 13 - 7.6
+827: Kung Fu Panda - 7.6
+828: Sherlock Holmes - 7.6
+829: 28 Days Later... - 7.6
+830: True Grit - 7.6
+831: Indiana Jones and the Temple of Doom - 7.6
+832: Milk - 7.6
+833: The Hunger Games: Catching Fire - 7.6
+834: West Side Story - 7.6
+835: The Godfather: Part III - 7.6
+836: 127 Hours - 7.6
+837: The Illusionist - 7.6
+838: Collateral - 7.6
+839: Enemy at the Gates - 7.6
+840: The Thin Red Line - 7.6
+841: Interview with the Vampire: The Vampire Chronicles - 7.6
+842: Serbuan maut - 7.6
+843: Rise of the Planet of the Apes - 7.6
+844: Lolita - 7.6
+845: Moneyball - 7.6
+846: Animal House - 7.6
+847: Lost Highway - 7.6
+848: The Evil Dead - 7.6
+849: A Single Man - 7.6
+850: Traffic - 7.6
+851: The Crow - 7.6
+852: The Reader - 7.6
+853: A Few Good Men - 7.6
+854: The Hunt for Red October - 7.6
+855: MASH - 7.6
+856: The Abyss - 7.6
+857: The Hours - 7.6
+858: Inside Man - 7.6
+859: Mad Max 2 - 7.6
+860: The Jungle Book - 7.6
+861: La môme - 7.6
+862: Snow White and the Seven Dwarfs - 7.6
+863: An American Werewolf in London - 7.6
+864: The Royal Tenenbaums - 7.6
+865: Tucker and Dale vs Evil - 7.6
+866: The Others - 7.6
+867: Garden State - 7.6
+868: The Piano - 7.6
+869: Kiss Kiss Bang Bang - 7.6
+870: Grindhouse - 7.6
+871: Little Children - 7.6
+872: The Book Thief - 7.6
+873: When Harry Met Sally... - 7.6
+874: Boys Don't Cry - 7.6
+875: Leaving Las Vegas - 7.6
+876: Ice Age - 7.6
+877: Munich - 7.6
+878: Falling Down - 7.6
+879: The Naked Gun: From the Files of Police Squad! - 7.6
+880: I Am Sam - 7.6
+881: Philomena - 7.6
+882: La piel que habito - 7.6
+883: Army of Darkness - 7.6
+884: Lord of War - 7.6
+885: Die Hard with a Vengeance - 7.6
+886: Braindead - 7.6
+887: Die Welle - 7.6
+888: Hunger - 7.6
+889: Chaplin - 7.6
+890: The Omen - 7.6
+891: A Fish Called Wanda - 7.6
+892: National Lampoon's Christmas Vacation - 7.6
+893: Innocence - 7.6
+894: The Commitments - 7.6
+895: Funny Games - 7.6
+896: Stranger Than Fiction - 7.6
+897: The Time Machine - 7.6
+898: The Wicker Man - 7.6
+899: Dead Man Walking - 7.6
+900: The Fisher King - 7.6
+901: Secondhand Lions - 7.6
+902: Who Am I - Kein System ist sicher - 7.6
+903: The Man Who Wasn't There - 7.6
+904: Following - 7.6
+905: The Hurricane - 7.6
+906: The Life of David Gale - 7.6
+907: The Kite Runner - 7.6
+908: Hair - 7.6
+909: It's a Mad Mad Mad Mad World - 7.6
+910: Robin Hood - 7.6
+911: Star Trek: First Contact - 7.6
+912: The Last Temptation of Christ - 7.6
+913: En kongelig affære - 7.6
+914: Disconnect - 7.6
+915: Thank You for Smoking - 7.6
+916: Se, jie - 7.6
+917: Escape from Alcatraz - 7.6
+918: Hodejegerne - 7.6
+919: Volver - 7.6
+920: Planes, Trains & Automobiles - 7.6
+921: The Guns of Navarone - 7.6
+922: Hoosiers - 7.6
+923: The Great Debaters - 7.6
+924: The Cook, the Thief, His Wife & Her Lover - 7.6
+925: Shi mian mai fu - 7.6
+926: Leviafan - 7.6
+927: Chinjeolhan geumjassi - 7.6
+928: Jin ling shi san chai - 7.6
+929: Yip Man 2 - 7.6
+930: The Player - 7.6
+931: Kari-gurashi no Arietti - 7.6
+932: Dracula - 7.6
+933: United 93 - 7.6
+934: Midnight Run - 7.6
+935: Jûsan-nin no shikaku - 7.6
+936: Le grand bleu - 7.6
+937: High Plains Drifter - 7.6
+938: The Secret of NIMH - 7.6
+939: Ne le dis à personne - 7.6
+940: Little Big Man - 7.6
+941: House of Sand and Fog - 7.6
+942: The Meaning of Life - 7.6
+943: Fucking Åmål - 7.6
+944: Whale Rider - 7.6
+945: Sin nombre - 7.6
+946: C'est arrivé près de chez vous - 7.6
+947: Radio Days - 7.6
+948: The Party - 7.6
+949: Picnic at Hanging Rock - 7.6
+950: Mujeres al borde de un ataque de nervios - 7.6
+951: The Many Adventures of Winnie the Pooh - 7.6
+952: Stranger Than Paradise - 7.6
+953: L'instinct de mort - 7.6
+954: Spellbound - 7.6
+955: The Damned United - 7.6
+956: Jui kuen II - 7.6
+957: The Haunting - 7.6
+958: Zatôichi - 7.6
+959: Die Fälscher - 7.6
+960: Tyrannosaur - 7.6
+961: Zui quan - 7.6
+962: Fantastic Beasts and Where to Find Them - 7.5
+963: Harry Potter and the Sorcerer's Stone - 7.5
+964: The Jungle Book - 7.5
+965: Scott Pilgrim vs. the World - 7.5
+966: Harry Potter and the Half-Blood Prince - 7.5
+967: Hugo - 7.5
+968: Gangs of New York - 7.5
+969: The Assassination of Jesse James by the Coward Robert Ford - 7.5
+970: Juno - 7.5
+971: A Nightmare on Elm Street - 7.5
+972: We Need to Talk About Kevin - 7.5
+973: Mulan - 7.5
+974: Jackie Brown - 7.5
+975: Total Recall - 7.5
+976: The Devil's Advocate - 7.5
+977: RoboCop - 7.5
+978: My Cousin Vinny - 7.5
+979: Legends of the Fall - 7.5
+980: Perfume: The Story of a Murderer - 7.5
+981: Elizabeth - 7.5
+982: The Fly - 7.5
+983: A Simple Plan - 7.5
+984: Menace II Society - 7.5
+985: The Bridges of Madison County - 7.5
+986: Sideways - 7.5
+987: Doubt - 7.5
+988: High Fidelity - 7.5
+989: Pleasantville - 7.5
+990: Jacob's Ladder - 7.5
+991: Field of Dreams - 7.5
+992: Straw Dogs - 7.5
+993: Ghost Dog: The Way of the Samurai - 7.5
+994: The Natural - 7.5
+995: Rudy - 7.5
+996: A Perfect World - 7.5
+997: Good Night, and Good Luck. - 7.5
+998: Quiz Show - 7.5
+999: The Wind That Shakes the Barley - 7.5
+1000: Bullets Over Broadway - 7.5

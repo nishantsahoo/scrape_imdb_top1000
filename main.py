@@ -13,5 +13,5 @@ for x in tqdm(range(1, 21)):
     for each in itemList:
         coltitle = each.find('div', attrs={'class': 'col-title'})
         ratingItem = each.find('div', attrs={'class': 'col-imdb-rating'})
-        print(str(i) + ": " + coltitle.find('a').text.strip('\n\t ') + ' - ' +ratingItem.find('strong').text.strip('\n\t '))
+        print(str(i) + ":", coltitle.find('a').text.strip('\n\t '), '-', ratingItem.find('strong').text.strip('\n\t '))
         i += 1
